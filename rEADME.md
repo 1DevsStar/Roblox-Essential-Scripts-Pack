@@ -25,4 +25,4 @@ Tu peux les copier dans ton projet directement !
 ## 🚀 Objectif :
 Aider les créateurs à gagner du temps, à apprendre, et à créer des jeux plus facilement.
 
-Développé par [Hemerick](https://github.com/1DevsStar) 🧠
+Développé par [DevsStar](https://github.com/1DevsStar) 🧠
